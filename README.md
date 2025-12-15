@@ -23,14 +23,12 @@ Standard scaling for numerical features
 
 Recursive Feature Elimination for feature selection
 
-Results
-
+Results:
 Six models were evaluated. The HistGradientBoosting model achieved the best performance with a validation MAE of ~£1,300.
 
-Tools
+Tools:
 
 Python, Pandas, NumPy, Scikit-learn, SHAP
-
 
 Kaggle competition against our other peers:
 
